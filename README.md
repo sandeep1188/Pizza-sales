@@ -1,5 +1,5 @@
 # Pizza Sales Data Analysis
-![MS Sql Logo](https://github.com/Himanshu-afk-gg/Pizza-Sales-Data-Analysis-Project-Using-SQL-PowerBI/blob/main/ms%20sql%20image.png) ![Power BI Logo](https://github.com/Himanshu-afk-gg/Pizza-Sales-Data-Analysis-Project-Using-SQL-PowerBI/blob/main/power%20bi%20logo.png) ![Ms Word Logo](https://github.com/Himanshu-afk-gg/Pizza-Sales-Data-Analysis-Project-Using-SQL-PowerBI/blob/main/ms%20word%20logo.png)
+![MS Sql Logo](https://github.com/sandeep1188/Pizza-sales/blob/main/ms%20sql%20image.png) ![Power BI Logo](https://github.com/sandeep1188/Pizza-sales/blob/main/power%20bi%20logo.png) ![Ms Word Logo](https://github.com/sandeep1188/Pizza-sales/blob/main/ms%20word%20logo.png)
 
 
 ## Objectives
@@ -16,14 +16,14 @@ Using SQL queries on the pizza sales dataset, this analysis examines various asp
 All the SQL queries generated in this analysis have been visualized in an interactive Power BI dashboard. The dashboard offers a graphical representation of the findings, showcasing daily, monthly, and category-based sales trends, along with top and bottom-performing pizzas. 
 
 The dataset used for this analysis was cleaned and modified to ensure accurate and actionable insights before being imported into Power BI. You can access the dashboard using the following link:
-**[Pizza Sales Power BI Dashboard](https://github.com/Himanshu-afk-gg/Pizza-Sales-Data-Analysis-Project-Using-SQL-PowerBI/blob/main/pizza%20sales%20dashboard.pbix)**
+**[Pizza Sales Power BI Dashboard](https://github.com/sandeep1188/Pizza-sales/blob/main/pizza%20sales%20dashboard.pbix)**
 
-![Ms Word Logo](https://github.com/Himanshu-afk-gg/Pizza-Sales-Data-Analysis-Project-Using-SQL-PowerBI/blob/main/pizza%20sales%20dashboard_page-0001.jpg)
+![Ms Word Logo](https://github.com/sandeep1188/Pizza-sales/blob/main/ms%20word%20logo.png)
 
 ### Dataset
 The dataset is available as a CSV file, which was imported into both the Microsoft SQL Server and Power BI for analysis and visualization. Access the dataset here:
 
-**[Pizza Sales Dataset (CSV)](https://github.com/Himanshu-afk-gg/Pizza-Sales-Data-Analysis-Project-Using-SQL-PowerBI/blob/main/pizza_sales.csv)**
+**[Pizza Sales Dataset (CSV)](https://github.com/sandeep1188/Pizza-sales/blob/main/pizza_sales.csv)**
 
 ## Report
 A detailed report has been created summarizing the SQL queries, outputs, and visualizations in Power BI. This report includes:
@@ -31,7 +31,7 @@ A detailed report has been created summarizing the SQL queries, outputs, and vis
 - Screenshots of the Power BI dashboard visualizations corresponding to each query’s output.
 - Detailed insights derived from the visualizations.
 
-**[Download the Full Report (Word Document)](https://github.com/Himanshu-afk-gg/Pizza-Sales-Data-Analysis-Project-Using-SQL-PowerBI/blob/main/SQL%20Queries%20(Pizza%20Shop).docx)**
+**[Download the Full Report (Word Document)](https://github.com/sandeep1188/Pizza-sales/blob/main/SQL%20Queries%20(Pizza%20Shop).docx)**
 
 ---
 
@@ -263,8 +263,7 @@ Similarly, for all the queries where BOTTOM & TOP are required.
 
 ---
 
-## Stay Connected
-If you'd like to stay connected and follow more of my work, feel free to visit my [LinkedIn profile](https://www.linkedin.com/in/himanshu-jaiswal-a9a30222a/). I’d love to network and discuss data analytics, SQL, or Netflix-related projects.
+
 
 ## Thank You
 Thank you for visiting and taking the time to explore this repository! Your interest is much appreciated.
